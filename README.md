@@ -1,4 +1,4 @@
-***This is just my version of the bot, see [RhinoBot] (https://github.com/Just-Some-Bots/MusicBot) for original.***
+***This is just my version of the bot, see [RhinoBot](https://github.com/Just-Some-Bots/MusicBot) for original.***
 
 # RhinoBot: The music bot for Discord.
 
